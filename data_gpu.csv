@@ -1,0 +1,1715 @@
+Keyword	Mark
+['128', 'ddr', 'radeon', '9700', 'tx', 'w/tv-out']	44
+['128mb', 'ddr', 'radeon', '9800', 'pro']	66
+['128mb', 'radeon', 'x600', 'se']	49
+['256mb', 'radeon', 'x600']	67
+['7900', 'mod', '-', 'radeon', 'hd', '6520g']	610
+['a6', 'micro-6500t', 'quad-core', 'apu', 'with', 'radeonr4']	220
+['abit', 'siluro', 't400']	3
+['all-in-wonder', '9000']	4
+['all-in-wonder', 'radeon', '8500dv']	5
+['all-in-wonder', 'x1900']	127
+['all-in-wonder', 'x800', 'gt']	84
+['asus', 'eah4870x2']	496
+['barco', 'mxrt', '5400']	1161
+['barco', 'mxrt', '5450']	992
+['barco', 'mxrt', '7500']	4319
+['embedded', 'radeon', 'e9173']	1996
+['familia', 'intel', 'q33', 'express', 'chipset']	10
+['famille', 'de', 'jeu', 'de', 'puces', 'express', 'intel', '946gz']	7
+['firegl', 't2-128']	30
+['firegl', 'v3100']	52
+['firegl', 'v3200']	84
+['firegl', 'v3300']	70
+['firegl', 'v3350']	68
+['firegl', 'v3400']	103
+['firegl', 'v3600']	179
+['firegl', 'v5100']	92
+['firegl', 'v5200']	114
+['firegl', 'v5600']	341
+['firegl', 'v7200']	116
+['firegl', 'v7300']	128
+['firegl', 'v7350']	110
+['firegl', 'v7600']	615
+['firegl', 'v7700']	660
+['firegl', 'v8650']	550
+['firegl', 'x1']	59
+['firemv', '2200', 'pcie']	36
+['firemv', '2250']	45
+['firemv', '2260']	117
+['firemv', '2400', 'pcie']	11
+['firepro', '2260']	113
+['firepro', '2270']	226
+['firepro', '2450']	51
+['firepro', '2460']	215
+['firepro', '3d', 'v3700']	178
+['firepro', '3d', 'v3750']	341
+['firepro', '3d', 'v3800']	472
+['firepro', '3d', 'v4800']	1167
+['firepro', '3d', 'v5700']	546
+['firepro', '3d', 'v5800']	1489
+['firepro', '3d', 'v7750']	545
+['firepro', '3d', 'v7800']	1834
+['firepro', '3d', 'v8700']	1206
+['firepro', '3d', 'v8750']	1271
+['firepro', '3d', 'v8800']	2437
+['firepro', '3d', 'v9800']	2811
+['firepro', 'm2000']	622
+['firepro', 'm4000']	1623
+['firepro', 'm4000', 'mobility', 'pro']	1714
+['firepro', 'm40003']	1364
+['firepro', 'm4100']	1059
+['firepro', 'm4150']	1113
+['firepro', 'm4170']	1086
+['firepro', 'm5100']	2102
+['firepro', 'm5950']	1314
+['firepro', 'm6000', 'mobility', 'pro']	1734
+['firepro', 'm6100']	2963
+['firepro', 'm6100', 'firegl', 'v']	3487
+['firepro', 'm7740']	665
+['firepro', 's10000']	5235
+['firepro', 's7000']	4166
+['firepro', 's9000']	5059
+['firepro', 'v3800']	472
+['firepro', 'v3900']	874
+['firepro', 'v4900']	1306
+['firepro', 'v5700']	464
+['firepro', 'v5900']	1530
+['firepro', 'v7000', 'adapter']	3161
+['firepro', 'v7900']	2749
+['firepro', 'v9800', 'adapter']	2726
+['firepro', 'w2100']	905
+['firepro', 'w4100']	1602
+['firepro', 'w4100', 'adapter']	1692
+['firepro', 'w4170m']	1374
+['firepro', 'w4190m']	1298
+['firepro', 'w4300']	2908
+['firepro', 'w5000']	3087
+['firepro', 'w5100']	3030
+['firepro', 'w5130m']	1684
+['firepro', 'w5170m']	2195
+['firepro', 'w600']	1703
+['firepro', 'w7000']	4352
+['firepro', 'w7000', 'adapter']	4084
+['firepro', 'w7100']	5407
+['firepro', 'w7100', 'adapter']	5553
+['firepro', 'w7170m']	4578
+['firepro', 'w8000']	4609
+['firepro', 'w8000', 'adapter']	4751
+['firepro', 'w8100']	6085
+['firepro', 'w8100', 'graphic', 'adapter']	7570
+['firepro', 'w9000']	5305
+['firepro', 'w9100']	7189
+['firestream', '9250']	1164
+['firestream', '9270']	1341
+['geforce', '205']	126
+['geforce', '210']	171
+['geforce', '256']	5
+['geforce', '305m']	190
+['geforce', '310']	202
+['geforce', '310m']	209
+['geforce', '315']	248
+['geforce', '315m']	208
+['geforce', '320m']	271
+['geforce', '405']	211
+['geforce', '410m']	354
+['geforce', '505']	191
+['geforce', '510']	310
+['geforce', '605']	323
+['geforce', '6100']	21
+['geforce', '6100', 'nforce', '400']	25
+['geforce', '6100', 'nforce', '405']	22
+['geforce', '6100', 'nforce', '420']	25
+['geforce', '6100', 'nforce', '430']	23
+['geforce', '610m']	405
+['geforce', '615']	548
+['geforce', '6150']	21
+['geforce', '6150', 'le']	21
+['geforce', '6150se']	24
+['geforce', '6150se', 'nforce', '430']	22
+['geforce', '6200']	44
+['geforce', '6200', 'a-le']	32
+['geforce', '6200', 'le']	26
+['geforce', '6200', 'turbocache']	38
+['geforce', '6200se', 'turbocache']	28
+['geforce', '6500']	38
+['geforce', '6600']	62
+['geforce', '6600', 'gt']	101
+['geforce', '6600', 'le']	51
+['geforce', '6610', 'xl']	88
+['geforce', '6700', 'xl']	97
+['geforce', '6800']	112
+['geforce', '6800', 'gs']	137
+['geforce', '6800', 'gs/xt']	102
+['geforce', '6800', 'gt']	142
+['geforce', '6800', 'le']	109
+['geforce', '6800', 'ultra']	138
+['geforce', '6800', 'xt']	101
+['geforce', '7000m']	13
+['geforce', '7000m', '/', 'nforce', '610m']	12
+['geforce', '7025', '/', 'nforce', '630a']	25
+['geforce', '7050', '/', 'nforce', '610i']	27
+['geforce', '7050', '/', 'nforce', '620i']	31
+['geforce', '7050', '/', 'nforce', '630i']	27
+['geforce', '7050', 'pv', '/', 'nforce', '630a']	22
+['geforce', '705m']	455
+['geforce', '7100', '/', 'nforce', '630i']	31
+['geforce', '7100', 'gs']	43
+['geforce', '710a']	538
+['geforce', '710m']	571
+['geforce', '7150', '/', 'nforce', '630i']	33
+['geforce', '7150m', '/', 'nforce', '630m']	18
+['geforce', '720a']	724
+['geforce', '7300', 'gs']	66
+['geforce', '7300', 'gt']	108
+['geforce', '7300', 'le']	55
+['geforce', '7300', 'se']	39
+['geforce', '7300', 'se/7200', 'gs']	42
+['geforce', '730a']	808
+['geforce', '7350', 'le']	74
+['geforce', '7500', 'le']	69
+['geforce', '7600', 'gs']	134
+['geforce', '7600', 'gt']	181
+['geforce', '7650', 'gs']	134
+['geforce', '7800', 'gs']	177
+['geforce', '7800', 'gt']	196
+['geforce', '7800', 'gtx']	223
+['geforce', '7900', 'gs']	219
+['geforce', '7900', 'gt']	258
+['geforce', '7900', 'gt/gto']	247
+['geforce', '7900', 'gtx']	306
+['geforce', '7950', 'gt']	264
+['geforce', '7950', 'gx2']	201
+['geforce', '800a']	428
+['geforce', '800m']	555
+['geforce', '8100', '/', 'nforce', '720a']	79
+['geforce', '810a']	638
+['geforce', '810m']	486
+['geforce', '8200']	79
+['geforce', '8200m', 'g']	56
+['geforce', '820a']	700
+['geforce', '820m']	620
+['geforce', '825m']	764
+['geforce', '8300']	91
+['geforce', '8300', 'gs']	66
+['geforce', '830a']	1004
+['geforce', '830m']	904
+['geforce', '8400']	100
+['geforce', '8400', 'gs']	112
+['geforce', '8400', 'se']	68
+['geforce', '8400m', 'g']	58
+['geforce', '8400m', 'gs']	81
+['geforce', '8400m', 'gt']	98
+['geforce', '840a']	878
+['geforce', '840m']	927
+['geforce', '845m']	1147
+['geforce', '8500', 'gt']	136
+['geforce', '8600', 'gs']	141
+['geforce', '8600', 'gt']	240
+['geforce', '8600', 'gts']	284
+['geforce', '8600m', 'gs']	123
+['geforce', '8600m', 'gt']	168
+['geforce', '8700m', 'gt']	206
+['geforce', '8800', 'gs']	543
+['geforce', '8800', 'gt']	747
+['geforce', '8800', 'gts']	605
+['geforce', '8800', 'gts', '512']	833
+['geforce', '8800', 'gtx']	762
+['geforce', '8800', 'ultra']	769
+['geforce', '8800m', 'gts']	474
+['geforce', '8800m', 'gtx']	542
+['geforce', '9100']	82
+['geforce', '9100m', 'g']	75
+['geforce', '910m']	486
+['geforce', '9200']	80
+['geforce', '9200m', 'ge']	81
+['geforce', '9200m', 'gs']	84
+['geforce', '920a']	919
+['geforce', '920m']	738
+['geforce', '920mx']	1090
+['geforce', '9300']	126
+['geforce', '9300', '/', 'nforce', '730i']	129
+['geforce', '9300', 'ge']	101
+['geforce', '9300', 'gs']	91
+['geforce', '9300ge']	97
+['geforce', '9300m', 'g']	85
+['geforce', '9300m', 'gs']	94
+['geforce', '930a']	1220
+['geforce', '930m']	962
+['geforce', '930mx']	1245
+['geforce', '9400']	139
+['geforce', '9400', 'gt']	186
+['geforce', '9400m']	118
+['geforce', '9400m', 'g']	123
+['geforce', '940a']	1031
+['geforce', '940m']	1003
+['geforce', '940mx']	1372
+['geforce', '945m']	1509
+['geforce', '9500', 'gs']	277
+['geforce', '9500', 'gt']	272
+['geforce', '9500m']	103
+['geforce', '9500m', 'g']	166
+['geforce', '9500m', 'gs']	179
+['geforce', '9600', 'gs']	445
+['geforce', '9600', 'gso']	515
+['geforce', '9600', 'gso', '512']	503
+['geforce', '9600', 'gt']	728
+['geforce', '9600m', 'gs']	231
+['geforce', '9600m', 'gt']	259
+['geforce', '9600m', 'gt', '/', 'geforce', 'gt', '220m']	293
+['geforce', '9650m', 'gs']	270
+['geforce', '9650m', 'gt']	254
+['geforce', '9700m', 'gt']	317
+['geforce', '9700m', 'gts']	478
+['geforce', '9800', 'gt']	707
+['geforce', '9800', 'gtx']	769
+['geforce', '9800', 'gtx+']	897
+['geforce', '9800', 'gtx/9800', 'gtx+']	878
+['geforce', '9800', 'gx2']	797
+['geforce', '9800', 's']	635
+['geforce', '9800m', 'gs']	547
+['geforce', '9800m', 'gt']	475
+['geforce', '9800m', 'gts']	645
+['geforce', '9800m', 'gtx']	517
+['geforce', '999', 'gtx']	83
+['geforce', 'fx', '5200']	7
+['geforce', 'fx', '5200', 'ultra']	12
+['geforce', 'fx', '5200le']	7
+['geforce', 'fx', '5200se']	11
+['geforce', 'fx', '5500']	8
+['geforce', 'fx', '5600']	12
+['geforce', 'fx', '5600', 'ultra']	17
+['geforce', 'fx', '5600xt']	9
+['geforce', 'fx', '5700']	40
+['geforce', 'fx', '5700', 'ultra']	34
+['geforce', 'fx', '5700le']	24
+['geforce', 'fx', '5700ve']	33
+['geforce', 'fx', '5900']	34
+['geforce', 'fx', '5900', 'ultra']	41
+['geforce', 'fx', '5900xt']	40
+['geforce', 'fx', '5950', 'ultra']	59
+['geforce', 'fx', 'go', '5200']	8
+['geforce', 'fx', 'go', '5600']	17
+['geforce', 'fx', 'go5300']	12
+['geforce', 'fx', 'go5650']	16
+['geforce', 'fx', 'go5700']	51
+['geforce', 'g', '103m']	105
+['geforce', 'g', '105m']	112
+['geforce', 'g100']	99
+['geforce', 'g102m']	93
+['geforce', 'g105m']	179
+['geforce', 'g200']	131
+['geforce', 'g205m']	91
+['geforce', 'g210']	168
+['geforce', 'g210m']	198
+['geforce', 'go', '6100']	17
+['geforce', 'go', '6150']	17
+['geforce', 'go', '6200']	15
+['geforce', 'go', '6400']	24
+['geforce', 'go', '6600']	69
+['geforce', 'go', '6600', 'te/6200', 'te']	44
+['geforce', 'go', '6800']	106
+['geforce', 'go', '6800', 'ultra']	137
+['geforce', 'go', '7200']	45
+['geforce', 'go', '7300']	50
+['geforce', 'go', '7400']	62
+['geforce', 'go', '7600']	127
+['geforce', 'go', '7600', 'gt']	165
+['geforce', 'go', '7700']	147
+['geforce', 'go', '7800']	114
+['geforce', 'go', '7800', 'gtx']	209
+['geforce', 'go', '7900', 'gs']	176
+['geforce', 'go', '7900', 'gtx']	270
+['geforce', 'go', '7950', 'gtx']	263
+['geforce', 'gpu']	1153
+['geforce', 'gt', '1030']	2292
+['geforce', 'gt', '120']	286
+['geforce', 'gt', '120m']	267
+['geforce', 'gt', '130']	456
+['geforce', 'gt', '130m']	297
+['geforce', 'gt', '140']	747
+['geforce', 'gt', '220']	349
+['geforce', 'gt', '220m']	257
+['geforce', 'gt', '230']	472
+['geforce', 'gt', '230m']	332
+['geforce', 'gt', '240']	648
+['geforce', 'gt', '240m']	350
+['geforce', 'gt', '320']	552
+['geforce', 'gt', '320m']	205
+['geforce', 'gt', '325m']	290
+['geforce', 'gt', '330']	555
+['geforce', 'gt', '330m']	361
+['geforce', 'gt', '335m']	502
+['geforce', 'gt', '340']	774
+['geforce', 'gt', '415m']	318
+['geforce', 'gt', '420']	477
+['geforce', 'gt', '420m']	543
+['geforce', 'gt', '425m']	626
+['geforce', 'gt', '430']	661
+['geforce', 'gt', '435m']	667
+['geforce', 'gt', '440']	841
+['geforce', 'gt', '445m']	1054
+['geforce', 'gt', '520']	365
+['geforce', 'gt', '520m']	385
+['geforce', 'gt', '520mx']	407
+['geforce', 'gt', '525m']	600
+['geforce', 'gt', '530']	744
+['geforce', 'gt', '540m']	649
+['geforce', 'gt', '545']	1291
+['geforce', 'gt', '550m']	719
+['geforce', 'gt', '555m']	891
+['geforce', 'gt', '610']	350
+['geforce', 'gt', '620']	430
+['geforce', 'gt', '620m']	574
+['geforce', 'gt', '625']	438
+['geforce', 'gt', '625m']	500
+['geforce', 'gt', '630']	746
+['geforce', 'gt', '630m']	690
+['geforce', 'gt', '635']	913
+['geforce', 'gt', '635m']	699
+['geforce', 'gt', '640']	1281
+['geforce', 'gt', '640m']	967
+['geforce', 'gt', '640m', 'le']	789
+['geforce', 'gt', '645']	2250
+['geforce', 'gt', '645m']	909
+['geforce', 'gt', '650m']	1234
+['geforce', 'gt', '705']	419
+['geforce', 'gt', '710']	686
+['geforce', 'gt', '710m']	555
+['geforce', 'gt', '720']	716
+['geforce', 'gt', '720a']	660
+['geforce', 'gt', '720m']	563
+['geforce', 'gt', '730']	923
+['geforce', 'gt', '730a']	742
+['geforce', 'gt', '730m']	842
+['geforce', 'gt', '735m']	676
+['geforce', 'gt', '740']	1567
+['geforce', 'gt', '740m']	789
+['geforce', 'gt', '745a']	1179
+['geforce', 'gt', '745m']	979
+['geforce', 'gt', '750m']	1298
+['geforce', 'gt', '755m']	1601
+['geforce', 'gt', '820m']	705
+['geforce', 'gt625m']	531
+['geforce', 'gts', '160m']	678
+['geforce', 'gts', '240']	817
+['geforce', 'gts', '250']	875
+['geforce', 'gts', '250m']	569
+['geforce', 'gts', '350m']	556
+['geforce', 'gts', '360m']	756
+['geforce', 'gts', '450']	1556
+['geforce', 'gtx', '1050']	4769
+['geforce', 'gtx', '1050', '(mobile)']	4495
+['geforce', 'gtx', '1050', 'ti']	6057
+['geforce', 'gtx', '1050', 'ti', '(mobile)']	5989
+['geforce', 'gtx', '1050', 'ti', 'with', 'max-q', 'design']	5799
+['geforce', 'gtx', '1050', 'with', 'max-q', 'design']	3897
+['geforce', 'gtx', '1060']	9096
+['geforce', 'gtx', '1060', '(mobile)']	7701
+['geforce', 'gtx', '1060', '3gb']	8992
+['geforce', 'gtx', '1060', '5gb']	6684
+['geforce', 'gtx', '1060', 'with', 'max-q', 'design']	7863
+['geforce', 'gtx', '1070']	11375
+['geforce', 'gtx', '1070', '(mobile)']	9520
+['geforce', 'gtx', '1070', 'ti']	12314
+['geforce', 'gtx', '1070', 'with', 'max-q', 'design']	9480
+['geforce', 'gtx', '1080']	12458
+['geforce', 'gtx', '1080', 'ti']	14223
+['geforce', 'gtx', '1080', 'with', 'max-q', 'design']	10248
+['geforce', 'gtx', '1650']	7950
+['geforce', 'gtx', '1650', '(mobile)']	7023
+['geforce', 'gtx', '1650', 'super']	5208
+['geforce', 'gtx', '1650', 'with', 'max-q', 'design']	5604
+['geforce', 'gtx', '1660']	10788
+['geforce', 'gtx', '1660', 'super']	11269
+['geforce', 'gtx', '1660', 'ti']	11533
+['geforce', 'gtx', '1660', 'ti', '(mobile)']	9747
+['geforce', 'gtx', '1660', 'ti', 'with', 'max-q', 'design']	8441
+['geforce', 'gtx', '260']	1136
+['geforce', 'gtx', '260m']	589
+['geforce', 'gtx', '275']	1245
+['geforce', 'gtx', '280']	1207
+['geforce', 'gtx', '280m']	620
+['geforce', 'gtx', '285']	1273
+['geforce', 'gtx', '285m']	734
+['geforce', 'gtx', '295']	1053
+['geforce', 'gtx', '460']	2654
+['geforce', 'gtx', '460', 'se']	2260
+['geforce', 'gtx', '460', 'v2']	2495
+['geforce', 'gtx', '460m']	1395
+['geforce', 'gtx', '465']	2947
+['geforce', 'gtx', '470']	3601
+['geforce', 'gtx', '470m']	1949
+['geforce', 'gtx', '480']	4359
+['geforce', 'gtx', '480m']	2050
+['geforce', 'gtx', '485m']	2400
+['geforce', 'gtx', '550', 'ti']	1921
+['geforce', 'gtx', '555']	2159
+['geforce', 'gtx', '560']	3118
+['geforce', 'gtx', '560', 'se']	2194
+['geforce', 'gtx', '560', 'ti']	3528
+['geforce', 'gtx', '560m']	1541
+['geforce', 'gtx', '570']	4417
+['geforce', 'gtx', '570m']	2024
+['geforce', 'gtx', '580']	5017
+['geforce', 'gtx', '580m']	2279
+['geforce', 'gtx', '590']	4221
+['geforce', 'gtx', '645']	1939
+['geforce', 'gtx', '650']	1836
+['geforce', 'gtx', '650', 'ti']	2659
+['geforce', 'gtx', '650', 'ti', 'boost']	3538
+['geforce', 'gtx', '660']	4129
+['geforce', 'gtx', '660', 'ti']	4656
+['geforce', 'gtx', '660m']	1447
+['geforce', 'gtx', '670']	5362
+['geforce', 'gtx', '670m']	1950
+['geforce', 'gtx', '670mx']	2079
+['geforce', 'gtx', '675m']	2139
+['geforce', 'gtx', '675mx']	2459
+['geforce', 'gtx', '680']	5667
+['geforce', 'gtx', '680m']	3345
+['geforce', 'gtx', '680mx']	4274
+['geforce', 'gtx', '690']	5393
+['geforce', 'gtx', '745']	2196
+['geforce', 'gtx', '750']	3328
+['geforce', 'gtx', '750', 'ti']	3770
+['geforce', 'gtx', '760']	4938
+['geforce', 'gtx', '760', 'ti']	5118
+['geforce', 'gtx', '760', 'ti', 'oem']	5343
+['geforce', 'gtx', '760a']	1281
+['geforce', 'gtx', '760m']	1439
+['geforce', 'gtx', '765m']	1888
+['geforce', 'gtx', '770']	6064
+['geforce', 'gtx', '770m']	2666
+['geforce', 'gtx', '775m']	4222
+['geforce', 'gtx', '780']	7955
+['geforce', 'gtx', '780', 'ti']	8888
+['geforce', 'gtx', '780m']	4037
+['geforce', 'gtx', '850a']	802
+['geforce', 'gtx', '850m']	1651
+['geforce', 'gtx', '860m']	1972
+['geforce', 'gtx', '870m']	2477
+['geforce', 'gtx', '880m']	3723
+['geforce', 'gtx', '950']	5246
+['geforce', 'gtx', '950a']	1729
+['geforce', 'gtx', '950m']	1939
+['geforce', 'gtx', '960']	5828
+['geforce', 'gtx', '960a']	2410
+['geforce', 'gtx', '960m']	2394
+['geforce', 'gtx', '965m']	3255
+['geforce', 'gtx', '970']	8651
+['geforce', 'gtx', '970m']	4246
+['geforce', 'gtx', '980']	9678
+['geforce', 'gtx', '980', 'ti']	11423
+['geforce', 'gtx', '980m']	5970
+['geforce', 'gtx', 'titan']	7936
+['geforce', 'gtx', 'titan', 'black']	8657
+['geforce', 'gtx', 'titan', 'x']	10683
+['geforce', 'gtx', 'titan', 'z']	7647
+['geforce', 'mx110']	1613
+['geforce', 'mx130']	1973
+['geforce', 'mx150']	2233
+['geforce', 'mx230']	2196
+['geforce', 'mx250']	2586
+['geforce', 'pcx', '5300']	6
+['geforce', 'pcx', '5750']	34
+['geforce', 'rtx', '2060']	12856
+['geforce', 'rtx', '2060', '(mobile)']	10619
+['geforce', 'rtx', '2060', 'super']	13832
+['geforce', 'rtx', '2070']	14052
+['geforce', 'rtx', '2070', '(mobile)']	11419
+['geforce', 'rtx', '2070', 'super']	14857
+['geforce', 'rtx', '2070', 'with', 'max-q', 'design']	11266
+['geforce', 'rtx', '2080']	15500
+['geforce', 'rtx', '2080', '(mobile)']	13444
+['geforce', 'rtx', '2080', 'super']	15868
+['geforce', 'rtx', '2080', 'ti']	16696
+['geforce', 'rtx', '2080', 'with', 'max-q', 'design']	12592
+['geforce2', 'gts/geforce2', 'pro']	3
+['geforce2', 'integrated', 'gpu']	4
+['geforce2', 'mx']	2
+['geforce2', 'mx', '100/200']	3
+['geforce2', 'mx/mx', '400']	3
+['geforce2', 'ti']	4
+['geforce3']	4
+['geforce3', 'ti', '200']	4
+['geforce3', 'ti', '500']	2
+['geforce4', '420', 'go']	3
+['geforce4', '420', 'go', '32m']	5
+['geforce4', '4200', 'go']	3
+['geforce4', '440', 'go']	3
+['geforce4', '440', 'go', '64m']	5
+['geforce4', '448', 'go']	5
+['geforce4', 'mx', '4000']	4
+['geforce4', 'mx', '420']	4
+['geforce4', 'mx', '440']	4
+['geforce4', 'mx', '440', 'with', 'agp8x']	4
+['geforce4', 'mx', '440se']	4
+['geforce4', 'mx', '460']	4
+['geforce4', 'mx', 'integrated', 'gpu']	6
+['geforce4', 'ti', '4200']	5
+['geforce4', 'ti', '4400']	7
+['geforce4', 'ti', '4600']	5
+['geforce4', 'ti', '4800', 'se']	7
+['geforce9400m']	105
+['gf117']	554
+['gigabyte', 'radeon', '9600', 'pro']	39
+['grid', 'k1']	880
+['grid', 'k120q']	298
+['grid', 'k140q']	727
+['grid', 'k160q']	701
+['grid', 'k180q']	778
+['grid', 'k2']	3772
+['grid', 'k220q']	912
+['grid', 'k240q']	2143
+['grid', 'k260q']	2940
+['grid', 'k280q']	2358
+['grid', 'k520']	4384
+['grid', 'm10-1b']	2024
+['grid', 'm10-2b']	2416
+['grid', 'm60-1q']	4680
+['grid', 'm60-2q']	5904
+['grid', 'm60-4q']	3188
+['grid', 'm60-8q']	3883
+['grid', 'p40-24q']	4375
+['grid', 'p40-3q']	681
+['grid', 'p6-2q']	4000
+['grid', 'p6-4q']	4429
+['hd6450']	220
+['incredible', 'hd', '4000']	517
+['intel', '-', 'express', 'chipset', 'g41']	56
+['intel', '-', 'express', 'chipset', 'q45/q43']	57
+['intel', '2nd', 'generation', 'sandybridge', 'hd', '3000']	205
+['intel', '4th', 'generation', 'haswell', 'hd']	419
+['intel', '82845g', 'controller']	2
+['intel', '82845g/gl', 'controller']	2
+['intel', '82845g/gl/ge/pe/gv', 'controller']	2
+['intel', '82865g', 'controller']	4
+['intel', '82915g', 'express']	5
+['intel', '82915g/gv/910gl', 'express']	3
+['intel', '82945g', 'express']	5
+['intel', '865', 'embedded', 'controller']	3
+['intel', '946gz', 'embedded', 'chipset', 'function', '0']	3
+['intel', '946gz', 'express']	6
+['intel', 'b43', 'express', 'chipset']	63
+['intel', 'coffee', 'lake', 'uhd']	1158
+['intel', 'g33/g31', 'express']	12
+['intel', 'g35', 'express']	30
+['intel', 'g41', 'express', 'chipset']	63
+['intel', 'g41', 'express-chipsatz']	58
+['intel', 'g45/g43', 'express', 'chipset']	69
+['intel', 'g965', 'express']	18
+['intel', 'haswell', 'hd', '-', 'gt1']	123
+['intel', 'haswell', 'hd', '-', 'gt2']	139
+['intel', 'hd', '3000']	314
+['intel', 'hd', '4000']	457
+['intel', 'hd', '4400']	569
+['intel', 'hd', '4600']	714
+['intel', 'hd', '500']	341
+['intel', 'hd', '5000']	601
+['intel', 'hd', '505']	390
+['intel', 'hd', '510']	624
+['intel', 'hd', '515']	647
+['intel', 'hd', '520']	843
+['intel', 'hd', '5200']	830
+['intel', 'hd', '530']	1008
+['intel', 'hd', '5300']	401
+['intel', 'hd', '5500']	596
+['intel', 'hd', '5600']	663
+['intel', 'hd', '6000']	829
+['intel', 'hd', '610']	717
+['intel', 'hd', '615']	740
+['intel', 'hd', '630']	1138
+['intel', 'hd', 'family']	440
+['intel', 'hd', 'graphics', '620']	934
+['intel', 'hd', 'manual-gen9_2015-133271']	165
+['intel', 'hd', 'modded']	112
+['intel', 'hd', 'p3000']	343
+['intel', 'hd', 'p4000']	516
+['intel', 'hd', 'p4600']	604
+['intel', 'hd', 'p4600/p4700']	674
+['intel', 'hd', 'p530']	1062
+['intel', 'hd', 'p630']	1741
+['intel', 'infoshock', 'hd']	193
+['intel', 'iris', '5100']	748
+['intel', 'iris', '540']	1343
+['intel', 'iris', '550']	1583
+['intel', 'iris', '6100']	977
+['intel', 'iris', 'plus']	1694
+['intel', 'iris', 'plus', '640']	1417
+['intel', 'iris', 'plus', '645']	2145
+['intel', 'iris', 'plus', '650']	1579
+['intel', 'iris', 'plus', '655']	1972
+['intel', 'iris', 'pro', '5200']	1172
+['intel', 'iris', 'pro', '580']	1881
+['intel', 'iris', 'pro', 'graphics', '6200']	1545
+['intel', 'iris', 'pro', 'p580']	2156
+['intel', 'iris', 'pro', 'p6300']	1209
+['intel', 'media', 'accelerator']	32
+['intel', 'media', 'accelerator', '3150']	3
+['intel', 'media', 'accelerator', '500']	3
+['intel', 'media', 'accelerator', '600']	6
+['intel', 'media', 'accelerator', 'hd']	116
+['intel', 'q33', 'express']	10
+['intel', 'q35', 'express']	9
+['intel', 'q45/q43', 'express', 'chipset']	66
+['intel', 'q45/q43', 'express-chipsatz']	57
+['intel', 'q965/q963', 'express']	6
+['intel', 'skylake', 'hd', 'dt', 'gt2']	576
+['intel', 'uhd']	1273
+['intel', 'uhd', '600']	363
+['intel', 'uhd', '605']	426
+['intel', 'uhd', '610']	800
+['intel', 'uhd', '615']	786
+['intel', 'uhd', '617']	878
+['intel', 'uhd', '630']	1360
+['intel', 'uhd', 'graphics', '620']	1072
+['intel', 'uhd', 'p630']	1394
+['intel', 'us15', 'embedded', 'media', 'and', 'controller']	7
+['ion']	97
+['ion', 'le']	97
+['m860g', 'with', 'mobility', 'radeon', '4100']	75
+['m880g', 'with', 'mobility', 'radeon', 'hd', '4200']	92
+['m880g', 'with', 'mobility', 'radeon', 'hd', '4225']	71
+['m880g', 'with', 'mobility', 'radeon', 'hd', '4250']	104
+['matrox', 'c420', 'lp', 'pcie', 'x16']	635
+['matrox', 'c680', 'pcie', 'x16']	1977
+['matrox', 'c900', 'pcie', 'x16']	1812
+['matrox', 'g200e', 'wddm', '1.2']	59
+['matrox', 'g200eh']	40
+['matrox', 'g200eh', 'wddm', '1.2']	51
+['matrox', 'g200er']	36
+['matrox', 'g200er', 'wddm', '1.2']	67
+['matrox', 'g200er', 'wddm', '2.0']	67
+['matrox', 'g200ew']	42
+['matrox', 'g200ew', 'wddm', '1.2']	50
+['matrox', 'm9138', 'lp', 'pcie', 'x16']	32
+['matrox', 'm9140', 'lp', 'pcie', 'x16']	23
+['matrox', 'm9148', 'lp', 'pcie', 'x16']	9
+['matrox', 'millennium', 'p650', 'pcie', '128']	5
+['matrox', 'millennium', 'p690', 'pcie', 'x16']	10
+['matrox', 'millennium', 'p690', 'plus', 'lp', 'pcie', 'x16']	6
+['matrox', 'parhelia', 'apve']	5
+['medion', 'radeon', 'x740xl']	94
+['mobile', 'intel', '-', 'famiglia', 'express', 'chipset', '45']	38
+['mobile', 'intel', '4', 'express-chipsatzfamilie']	44
+['mobile', 'intel', '45', 'express']	43
+['mobile', 'intel', '45', 'express-chipsatzfamilie']	117
+['mobile', 'intel', '915gm/gms/910gml', 'express']	4
+['mobile', 'intel', '945', 'express']	4
+['mobile', 'intel', '945gm', 'express']	5
+['mobile', 'intel', '945gm/gu', 'express']	5
+['mobile', 'intel', '965', 'express']	20
+['mobile', 'intel', '965', 'express-chipsatzfamilie']	24
+['mobile', 'intel', 'hd']	409
+['mobile', 'intel', 'serie', '4', 'express']	44
+['mobility', 'firegl', 't2']	40
+['mobility', 'firegl', 't2/t2e']	33
+['mobility', 'firegl', 'v3200']	62
+['mobility', 'firegl', 'v5000']	81
+['mobility', 'firegl', 'v5200']	44
+['mobility', 'firegl', 'v5250']	27
+['mobility', 'firegl', 'v5725']	219
+['mobility', 'radeon', '4100']	81
+['mobility', 'radeon', '7000', 'igp']	6
+['mobility', 'radeon', '7500']	3
+['mobility', 'radeon', '9000']	3
+['mobility', 'radeon', '9000', 'igp']	7
+['mobility', 'radeon', '9000/9100', 'igp']	5
+['mobility', 'radeon', '9100', 'igp']	2
+['mobility', 'radeon', '9200']	3
+['mobility', 'radeon', '9600', 'pro', 'turbo']	24
+['mobility', 'radeon', '9600/9700']	39
+['mobility', 'radeon', '9700']	27
+['mobility', 'radeon', '9800']	46
+['mobility', 'radeon', 'hd', '2300']	50
+['mobility', 'radeon', 'hd', '2400']	89
+['mobility', 'radeon', 'hd', '2400', 'xt']	102
+['mobility', 'radeon', 'hd', '2600']	167
+['mobility', 'radeon', 'hd', '2600', 'xt']	191
+['mobility', 'radeon', 'hd', '3410']	62
+['mobility', 'radeon', 'hd', '3430']	98
+['mobility', 'radeon', 'hd', '3450']	91
+['mobility', 'radeon', 'hd', '3470']	93
+['mobility', 'radeon', 'hd', '3470', 'hybrid', 'x2']	93
+['mobility', 'radeon', 'hd', '3650']	209
+['mobility', 'radeon', 'hd', '3670']	232
+['mobility', 'radeon', 'hd', '3850']	365
+['mobility', 'radeon', 'hd', '3870']	547
+['mobility', 'radeon', 'hd', '3870', 'x2']	564
+['mobility', 'radeon', 'hd', '4200']	90
+['mobility', 'radeon', 'hd', '4225']	66
+['mobility', 'radeon', 'hd', '4250']	98
+['mobility', 'radeon', 'hd', '4270']	92
+['mobility', 'radeon', 'hd', '4330']	135
+['mobility', 'radeon', 'hd', '4350']	148
+['mobility', 'radeon', 'hd', '4550']	191
+['mobility', 'radeon', 'hd', '4570']	195
+['mobility', 'radeon', 'hd', '4650']	401
+['mobility', 'radeon', 'hd', '4670']	463
+['mobility', 'radeon', 'hd', '4830']	511
+['mobility', 'radeon', 'hd', '4850']	866
+['mobility', 'radeon', 'hd', '4870']	719
+['mobility', 'radeon', 'hd', '5000']	773
+['mobility', 'radeon', 'hd', '5000', 'serisi']	478
+['mobility', 'radeon', 'hd', '5165']	284
+['mobility', 'radeon', 'hd', '530v']	174
+['mobility', 'radeon', 'hd', '540v']	188
+['mobility', 'radeon', 'hd', '5430']	181
+['mobility', 'radeon', 'hd', '5450']	214
+['mobility', 'radeon', 'hd', '545v']	199
+['mobility', 'radeon', 'hd', '5470']	236
+['mobility', 'radeon', 'hd', '550v']	266
+['mobility', 'radeon', 'hd', '5570']	720
+['mobility', 'radeon', 'hd', '560v']	318
+['mobility', 'radeon', 'hd', '5650']	555
+['mobility', 'radeon', 'hd', '565v']	353
+['mobility', 'radeon', 'hd', '5730']	677
+['mobility', 'radeon', 'hd', '5850']	763
+['mobility', 'radeon', 'hd', '5870']	1252
+['mobility', 'radeon', 'hd', 'serie', '4200']	96
+['mobility', 'radeon', 'x1300']	39
+['mobility', 'radeon', 'x1350']	39
+['mobility', 'radeon', 'x1400']	42
+['mobility', 'radeon', 'x1450']	33
+['mobility', 'radeon', 'x1600']	92
+['mobility', 'radeon', 'x1700']	104
+['mobility', 'radeon', 'x1800']	130
+['mobility', 'radeon', 'x1900']	134
+['mobility', 'radeon', 'x2300']	48
+['mobility', 'radeon', 'x2300', 'hd']	48
+['mobility', 'radeon', 'x2500']	81
+['mobility', 'radeon', 'x300']	33
+['mobility', 'radeon', 'x600']	50
+['mobility', 'radeon', 'x600', 'se']	49
+['mobility', 'radeon', 'x700']	66
+['mobility', 'radeon', 'xpress', '200']	27
+['mobility', 'radeon.', 'hd', '5470']	215
+['mobility/radeon', '9000']	4
+['mxgpu']	1826
+['nforce', '750a', 'sli']	83
+['nforce', '760i', 'sli']	140
+['nforce', '780a', 'sli']	92
+['nforce', '980a/780a', 'sli']	81
+['nvidia', 'titan', 'x']	13656
+['nvidia', 'titan', 'xp']	14217
+['nvs', '2100m']	184
+['nvs', '300']	182
+['nvs', '310']	295
+['nvs', '3100m']	203
+['nvs', '315']	348
+['nvs', '4200m']	366
+['nvs', '510']	764
+['nvs', '5100m']	356
+['nvs', '5200m']	665
+['nvs', '5400m']	792
+['nvs', '810']	981
+['openxt', 'display', 'driver']	30
+['p106-100']	4731
+['phdgd', 'ivy', '4']	374
+['phdgd', 'quantic', 'c3']	116
+['phdgd', 'sapphire', 'gr', 'for', 'mobile', 'intel', '965']	25
+['phdgd', 'solo', '1.2.0', 'x86']	11
+['phdgd', 'solo', '2', 'x64']	20
+['quadro', '1000m']	752
+['quadro', '1100m']	755
+['quadro', '2000']	1316
+['quadro', '2000', 'd']	1239
+['quadro', '2000d']	1278
+['quadro', '2000m']	1034
+['quadro', '280', 'nvs', 'pcie']	5
+['quadro', '3000m']	1463
+['quadro', '400']	236
+['quadro', '4000']	2051
+['quadro', '4000m']	1788
+['quadro', '410']	403
+['quadro', '5000']	2855
+['quadro', '5000m']	2059
+['quadro', '500m']	664
+['quadro', '5010m']	1833
+['quadro', '600']	698
+['quadro', '6000']	3535
+['quadro', 'cx']	947
+['quadro', 'fx', '1000']	34
+['quadro', 'fx', '1100']	35
+['quadro', 'fx', '1300']	34
+['quadro', 'fx', '1400']	103
+['quadro', 'fx', '1500']	155
+['quadro', 'fx', '1500m']	171
+['quadro', 'fx', '1600m']	213
+['quadro', 'fx', '1700']	193
+['quadro', 'fx', '1700m']	300
+['quadro', 'fx', '1800']	579
+['quadro', 'fx', '1800m']	477
+['quadro', 'fx', '2500m']	217
+['quadro', 'fx', '2700m']	529
+['quadro', 'fx', '2800m']	656
+['quadro', 'fx', '3000']	69
+['quadro', 'fx', '3400/4400']	104
+['quadro', 'fx', '3450']	148
+['quadro', 'fx', '3450/4000', 'sdi']	134
+['quadro', 'fx', '350']	85
+['quadro', 'fx', '3500']	208
+['quadro', 'fx', '3500m']	306
+['quadro', 'fx', '350m']	62
+['quadro', 'fx', '3600m']	467
+['quadro', 'fx', '360m']	86
+['quadro', 'fx', '370']	83
+['quadro', 'fx', '370', 'lp']	108
+['quadro', 'fx', '3700']	628
+['quadro', 'fx', '3700m']	633
+['quadro', 'fx', '370m']	93
+['quadro', 'fx', '380']	148
+['quadro', 'fx', '380', 'lp']	188
+['quadro', 'fx', '3800']	839
+['quadro', 'fx', '3800m']	803
+['quadro', 'fx', '380m']	201
+['quadro', 'fx', '4500']	206
+['quadro', 'fx', '4600']	600
+['quadro', 'fx', '4700', 'x2']	676
+['quadro', 'fx', '4800']	1000
+['quadro', 'fx', '500/600', 'pci']	14
+['quadro', 'fx', '500/fx', '600']	7
+['quadro', 'fx', '540']	80
+['quadro', 'fx', '550']	63
+['quadro', 'fx', '5500']	242
+['quadro', 'fx', '560']	113
+['quadro', 'fx', '5600']	681
+['quadro', 'fx', '570']	115
+['quadro', 'fx', '570m']	185
+['quadro', 'fx', '580']	268
+['quadro', 'fx', '5800']	1110
+['quadro', 'fx', '770m']	297
+['quadro', 'fx', '880m']	354
+['quadro', 'fx', 'go1400']	101
+['quadro', 'gp100']	12742
+['quadro', 'gv100']	12727
+['quadro', 'k1000m']	795
+['quadro', 'k1100m']	1044
+['quadro', 'k1200']	3050
+['quadro', 'k2000']	1722
+['quadro', 'k2000d']	1677
+['quadro', 'k2000m']	1081
+['quadro', 'k2100m']	1343
+['quadro', 'k2200']	3599
+['quadro', 'k2200m']	2717
+['quadro', 'k3000m']	1747
+['quadro', 'k3100m']	2077
+['quadro', 'k4000']	2880
+['quadro', 'k4000m']	2243
+['quadro', 'k4100m']	2663
+['quadro', 'k420']	829
+['quadro', 'k4200']	4475
+['quadro', 'k5000']	4015
+['quadro', 'k5000m']	2611
+['quadro', 'k5100m']	3127
+['quadro', 'k510m']	651
+['quadro', 'k5200']	6098
+['quadro', 'k600']	823
+['quadro', 'k6000']	7476
+['quadro', 'k610m']	761
+['quadro', 'k620']	2338
+['quadro', 'k620m']	925
+['quadro', 'm1000m']	2415
+['quadro', 'm1200']	3081
+['quadro', 'm2000']	4275
+['quadro', 'm2000m']	2960
+['quadro', 'm2200']	3738
+['quadro', 'm3000m']	4508
+['quadro', 'm4000']	6668
+['quadro', 'm4000m']	4895
+['quadro', 'm5000']	8503
+['quadro', 'm5000m']	5751
+['quadro', 'm500m']	1096
+['quadro', 'm520']	1608
+['quadro', 'm5500']	7915
+['quadro', 'm6000']	9430
+['quadro', 'm6000', '24gb']	10068
+['quadro', 'm600m']	1932
+['quadro', 'm620']	2810
+['quadro', 'nvs', '110m']	47
+['quadro', 'nvs', '120m']	46
+['quadro', 'nvs', '130m']	59
+['quadro', 'nvs', '135m']	57
+['quadro', 'nvs', '140m']	89
+['quadro', 'nvs', '150m']	92
+['quadro', 'nvs', '160m']	92
+['quadro', 'nvs', '210s']	23
+['quadro', 'nvs', '210s', '/', 'geforce', '6150le']	20
+['quadro', 'nvs', '280', 'sd']	2
+['quadro', 'nvs', '285']	35
+['quadro', 'nvs', '285', '128mb']	38
+['quadro', 'nvs', '290']	90
+['quadro', 'nvs', '295']	96
+['quadro', 'nvs', '320m']	205
+['quadro', 'nvs', '420']	98
+['quadro', 'nvs', '440']	37
+['quadro', 'nvs', '450']	91
+['quadro', 'nvs', '55/280', 'pci']	6
+['quadro', 'p1000']	4413
+['quadro', 'p2000']	7219
+['quadro', 'p2000', 'with', 'max-q', 'design']	5366
+['quadro', 'p2200']	9524
+['quadro', 'p3000']	5930
+['quadro', 'p3200']	8099
+['quadro', 'p3200', 'with', 'max-q', 'design']	8642
+['quadro', 'p400']	1684
+['quadro', 'p4000']	10433
+['quadro', 'p4000', 'with', 'max-q', 'design']	9082
+['quadro', 'p4200']	10373
+['quadro', 'p4200', 'with', 'max-q', 'design']	10320
+['quadro', 'p500']	1694
+['quadro', 'p5000']	10042
+['quadro', 'p520']	2040
+['quadro', 'p5200']	9366
+['quadro', 'p5200', 'with', 'max-q', 'design']	9796
+['quadro', 'p600']	3210
+['quadro', 'p6000']	13284
+['quadro', 'p620']	3814
+['quadro', 'rtx', '3000']	10278
+['quadro', 'rtx', '4000']	13275
+['quadro', 'rtx', '4000', 'with', 'max-q', 'design']	11268
+['quadro', 'rtx', '5000']	12848
+['quadro', 'rtx', '5000', '(mobile)']	12686
+['quadro', 'rtx', '5000', 'with', 'max-q', 'design']	14699
+['quadro', 'rtx', '6000']	14503
+['quadro', 'rtx', '8000']	10980
+['quadro', 't1000']	6903
+['quadro', 't2000']	7634
+['quadro2', 'pro']	1
+['quadro4', '380', 'xgl']	6
+['quadro4', '980', 'xgl']	5
+['radeon', '2100']	59
+['radeon', '3000']	98
+['radeon', '3100']	73
+['radeon', '520']	779
+['radeon', '530']	1135
+['radeon', '535']	1307
+['radeon', '535dx']	1021
+['radeon', '540']	1573
+['radeon', '540x']	1879
+['radeon', '6600m']	741
+['radeon', '7000', '/', 'radeon', 've', 'family']	3
+['radeon', '7500']	3
+['radeon', '7500', 'family']	4
+['radeon', '9000', 'family']	3
+['radeon', '9100', 'family']	6
+['radeon', '9100', 'igp']	5
+['radeon', '9200']	3
+['radeon', '9200', 'le', 'family']	2
+['radeon', '9200', 'pro', 'family']	2
+['radeon', '9200', 'se']	2
+['radeon', '9250']	2
+['radeon', '9500']	36
+['radeon', '9500', 'pro', '/', '9700']	41
+['radeon', '9550']	34
+['radeon', '9550', '/', 'x1050']	29
+['radeon', '9600', 'family']	25
+['radeon', '9600', 'pro']	42
+['radeon', '9600', 'pro', 'family']	26
+['radeon', '9600', 'tx', 'family']	18
+['radeon', '9600', 'xt']	35
+['radeon', '9600se']	27
+['radeon', '9700', 'pro']	53
+['radeon', '9800', 'pro']	59
+['radeon', '9800', 'se']	23
+['radeon', '9800', 'xt']	53
+['radeon', 'e4690']	405
+['radeon', 'e6760']	973
+['radeon', 'e8860']	1577
+['radeon', 'hd', '2350']	76
+['radeon', 'hd', '2400']	120
+['radeon', 'hd', '2400', 'pci']	14
+['radeon', 'hd', '2400', 'pro']	114
+['radeon', 'hd', '2400', 'xt']	118
+['radeon', 'hd', '2600', 'pro']	211
+['radeon', 'hd', '2600', 'pro', 'agp']	110
+['radeon', 'hd', '2600', 'xt']	282
+['radeon', 'hd', '2900', 'gt']	292
+['radeon', 'hd', '2900', 'pro']	627
+['radeon', 'hd', '2900', 'xt']	659
+['radeon', 'hd', '3200']	82
+['radeon', 'hd', '3300']	126
+['radeon', 'hd', '3450']	117
+['radeon', 'hd', '3470']	142
+['radeon', 'hd', '3650', 'agp']	150
+['radeon', 'hd', '3670']	240
+['radeon', 'hd', '3850']	529
+['radeon', 'hd', '3850', 'agp']	443
+['radeon', 'hd', '3850', 'x2']	822
+['radeon', 'hd', '3870']	716
+['radeon', 'hd', '3870', 'x2']	873
+['radeon', 'hd', '4200']	111
+['radeon', 'hd', '4250']	122
+['radeon', 'hd', '4270']	109
+['radeon', 'hd', '4290']	140
+['radeon', 'hd', '4300/4500', 'serisi']	155
+['radeon', 'hd', '4330']	158
+['radeon', 'hd', '4350']	166
+['radeon', 'hd', '4550']	235
+['radeon', 'hd', '4650']	333
+['radeon', 'hd', '4650', 'agp']	207
+['radeon', 'hd', '4670']	544
+['radeon', 'hd', '4770']	1034
+['radeon', 'hd', '4810']	769
+['radeon', 'hd', '4830']	946
+['radeon', 'hd', '4850']	1022
+['radeon', 'hd', '4850', 'x2']	1132
+['radeon', 'hd', '4870']	1383
+['radeon', 'hd', '4870', 'x2']	1309
+['radeon', 'hd', '4890']	1543
+['radeon', 'hd', '5450']	231
+['radeon', 'hd', '5470']	268
+['radeon', 'hd', '5550']	548
+['radeon', 'hd', '5570']	713
+['radeon', 'hd', '5600/5700']	955
+['radeon', 'hd', '5670']	1086
+['radeon', 'hd', '5750']	1455
+['radeon', 'hd', '5770']	1712
+['radeon', 'hd', '5830']	2055
+['radeon', 'hd', '5850']	2281
+['radeon', 'hd', '5870']	2621
+['radeon', 'hd', '5970']	2602
+['radeon', 'hd', '6230']	221
+['radeon', 'hd', '6250']	119
+['radeon', 'hd', '6290']	138
+['radeon', 'hd', '6290m']	140
+['radeon', 'hd', '6300m']	256
+['radeon', 'hd', '6310']	169
+['radeon', 'hd', '6320']	202
+['radeon', 'hd', '6320', 'graphic']	216
+['radeon', 'hd', '6320m']	198
+['radeon', 'hd', '6350']	209
+['radeon', 'hd', '6370d']	310
+['radeon', 'hd', '6370m']	275
+['radeon', 'hd', '6380g']	300
+['radeon', 'hd', '6410d']	386
+['radeon', 'hd', '6430m']	192
+['radeon', 'hd', '6450']	276
+['radeon', 'hd', '6450a']	260
+['radeon', 'hd', '6470m']	312
+['radeon', 'hd', '6480g']	406
+['radeon', 'hd', '6490m']	377
+['radeon', 'hd', '6520g']	486
+['radeon', 'hd', '6530d']	513
+['radeon', 'hd', '6550a']	707
+['radeon', 'hd', '6550d']	642
+['radeon', 'hd', '6570']	760
+['radeon', 'hd', '6610m']	565
+['radeon', 'hd', '6620g']	557
+['radeon', 'hd', '6630m']	684
+['radeon', 'hd', '6650m']	799
+['radeon', 'hd', '6670']	1061
+['radeon', 'hd', '6670', '+', '6670', 'dual']	646
+['radeon', 'hd', '6700m']	1016
+['radeon', 'hd', '6750']	1316
+['radeon', 'hd', '6750m']	937
+['radeon', 'hd', '6770']	1685
+['radeon', 'hd', '6770m']	964
+['radeon', 'hd', '6790']	2046
+['radeon', 'hd', '6800m']	994
+['radeon', 'hd', '6850']	2294
+['radeon', 'hd', '6870']	2615
+['radeon', 'hd', '6900m']	1964
+['radeon', 'hd', '6950']	3219
+['radeon', 'hd', '6970']	3524
+['radeon', 'hd', '6970m']	2270
+['radeon', 'hd', '6990']	2932
+['radeon', 'hd', '7290']	140
+['radeon', 'hd', '7290m']	123
+['radeon', 'hd', '7310']	171
+['radeon', 'hd', '7310g']	180
+['radeon', 'hd', '7310m']	166
+['radeon', 'hd', '7340']	207
+['radeon', 'hd', '7340g']	196
+['radeon', 'hd', '7340m']	221
+['radeon', 'hd', '7350']	278
+['radeon', 'hd', '7400g']	322
+['radeon', 'hd', '7420g']	428
+['radeon', 'hd', '7450']	308
+['radeon', 'hd', '7450a']	288
+['radeon', 'hd', '7450m']	329
+['radeon', 'hd', '7470']	361
+['radeon', 'hd', '7470m']	407
+['radeon', 'hd', '7480d']	430
+['radeon', 'hd', '7500g']	412
+['radeon', 'hd', '7500g', '+', '7500m/7600m', 'dual']	616
+['radeon', 'hd', '7500g', '+', '7550m', 'dual']	497
+['radeon', 'hd', '7500g', '+', 'hd', '7500m/7600m', 'dual']	355
+['radeon', 'hd', '7520g']	453
+['radeon', 'hd', '7520g', '+', '7400m', 'dual']	486
+['radeon', 'hd', '7520g', '+', '7600m', 'dual']	591
+['radeon', 'hd', '7520g', '+', '7610m', 'dual']	588
+['radeon', 'hd', '7520g', '+', '7650m', 'dual']	453
+['radeon', 'hd', '7520g', '+', '7670m', 'dual']	523
+['radeon', 'hd', '7520g', '+', '7700m', 'dual']	1060
+['radeon', 'hd', '7520g', '+', '8600/8700m', 'dual']	311
+['radeon', 'hd', '7520g', '+', 'hd', '7400m', 'dual']	544
+['radeon', 'hd', '7520g', '+', 'hd', '7600m', 'dual']	599
+['radeon', 'hd', '7520g', '+', 'hd', '7670m', 'dual']	495
+['radeon', 'hd', '7520g', '+', 'hd', '8600/8700m', 'dual']	623
+['radeon', 'hd', '7520g', '+', 'hd', '8750m', 'dual']	651
+['radeon', 'hd', '7540d']	510
+['radeon', 'hd', '7540d', '+', '6570', 'dual']	719
+['radeon', 'hd', '7550m']	464
+['radeon', 'hd', '7550m/7650m']	728
+['radeon', 'hd', '7560d']	663
+['radeon', 'hd', '7560d', '+', '6570', 'dual']	833
+['radeon', 'hd', '7560d', '+', '6670', 'dual']	1130
+['radeon', 'hd', '7560d', '+', '7560d', 'dual']	982
+['radeon', 'hd', '7560d', '+', '7670', 'dual']	1426
+['radeon', 'hd', '7560d', '+', 'hd', '7000', 'dual']	534
+['radeon', 'hd', '7560d', '+', 'hd', '7700', 'dual']	1346
+['radeon', 'hd', '7560d', '+', 'r5', '235', 'dual']	563
+['radeon', 'hd', '7570']	980
+['radeon', 'hd', '7570m']	613
+['radeon', 'hd', '7570m/hd', '7670m']	699
+['radeon', 'hd', '7580d']	350
+['radeon', 'hd', '7600g']	481
+['radeon', 'hd', '7600g', '+', '7450m', 'dual']	389
+['radeon', 'hd', '7600g', '+', '7500m/7600m', 'dual']	405
+['radeon', 'hd', '7600g', '+', '7550m', 'dual']	423
+['radeon', 'hd', '7600g', '+', '8500m/8700m', 'dual']	469
+['radeon', 'hd', '7600g', '+', 'hd', '7500m/7600m', 'dual']	555
+['radeon', 'hd', '7600g', '+', 'hd', '7550m', 'dual']	509
+['radeon', 'hd', '7600g', '+', 'hd', '8670m', 'dual']	543
+['radeon', 'hd', '7600g', '+', 'hd', 'dual']	442
+['radeon', 'hd', '7600m', '+', '7600m', 'dual']	773
+['radeon', 'hd', '7610m']	632
+['radeon', 'hd', '7620g']	474
+['radeon', 'hd', '7620g', '+', '8600m', 'dual']	508
+['radeon', 'hd', '7620g', '+', '8670m', 'dual']	577
+['radeon', 'hd', '7620g', '+', 'hd', '8600m', 'dual']	442
+['radeon', 'hd', '7620g', '+', 'hd', '8670m', 'dual']	507
+['radeon', 'hd', '7640g']	614
+['radeon', 'hd', '7640g', '+', '6400m', 'dual']	526
+['radeon', 'hd', '7640g', '+', '7400m', 'dual']	637
+['radeon', 'hd', '7640g', '+', '7470m', 'dual']	595
+['radeon', 'hd', '7640g', '+', '7500/7600', 'dual']	627
+['radeon', 'hd', '7640g', '+', '7600m', 'dual']	705
+['radeon', 'hd', '7640g', '+', '7610m', 'dual']	510
+['radeon', 'hd', '7640g', '+', '7670m', 'dual']	644
+['radeon', 'hd', '7640g', '+', '7700m', 'dual']	690
+['radeon', 'hd', '7640g', '+', '8500m', 'dual']	585
+['radeon', 'hd', '7640g', '+', '8570m', 'dual']	558
+['radeon', 'hd', '7640g', '+', '8600/8700m', 'dual']	688
+['radeon', 'hd', '7640g', '+', '8670m', 'dual']	558
+['radeon', 'hd', '7640g', '+', '8750m', 'dual']	654
+['radeon', 'hd', '7640g', '+', 'hd', '7400m', 'dual']	621
+['radeon', 'hd', '7640g', '+', 'hd', '7600m', 'dual']	704
+['radeon', 'hd', '7640g', '+', 'hd', '7670m', 'dual']	659
+['radeon', 'hd', '7640g', '+', 'hd', '7700m', 'dual']	589
+['radeon', 'hd', '7640g', '+', 'hd', '8500m', 'dual']	607
+['radeon', 'hd', '7640g', '+', 'hd', '8500m', 'n', 'hd', '8500m', 'dual']	665
+['radeon', 'hd', '7640g', '+', 'hd', '8570m', 'dual']	696
+['radeon', 'hd', '7640g', '+', 'hd', '8600/8700m', 'dual']	586
+['radeon', 'hd', '7640g', '+', 'hd', '8750m', 'dual']	996
+['radeon', 'hd', '7640g', '+', 'r5', 'm200', 'dual']	546
+['radeon', 'hd', '7640g', 'n', 'hd', '7640g', '+', 'hd', '7600m', 'n', 'hd', '7600m', 'd']	824
+['radeon', 'hd', '7640g', 'n', 'hd', '7640g', '+', 'hd', '7670m', 'dual']	679
+['radeon', 'hd', '7650a']	794
+['radeon', 'hd', '7650m']	723
+['radeon', 'hd', '7660d']	779
+['radeon', 'hd', '7660d', '+', '6570', 'dual']	1100
+['radeon', 'hd', '7660d', '+', '6670', 'dual']	1238
+['radeon', 'hd', '7660d', '+', '7470', 'dual']	465
+['radeon', 'hd', '7660d', '+', '7670', 'dual']	1061
+['radeon', 'hd', '7660d', '+', 'hd', '6670', 'dual']	1484
+['radeon', 'hd', '7660d', '+', 'hd', '7000', 'dual']	633
+['radeon', 'hd', '7660d', '+', 'hd', '7700', 'dual']	1958
+['radeon', 'hd', '7660d', '+', 'r7', '240', 'dual']	941
+['radeon', 'hd', '7660g']	798
+['radeon', 'hd', '7660g', '+', '7400m', 'dual']	588
+['radeon', 'hd', '7660g', '+', '7470m', 'dual']	630
+['radeon', 'hd', '7660g', '+', '7600m', 'dual']	831
+['radeon', 'hd', '7660g', '+', '7610m', 'dual']	745
+['radeon', 'hd', '7660g', '+', '7670m', 'dual']	743
+['radeon', 'hd', '7660g', '+', '7700m', 'dual']	757
+['radeon', 'hd', '7660g', '+', '7730m', 'dual']	931
+['radeon', 'hd', '7660g', '+', '8600m', 'dual']	445
+['radeon', 'hd', '7660g', '+', '8670m', 'dual']	587
+['radeon', 'hd', '7660g', '+', 'hd', '7500m/7600m', 'dual']	999
+['radeon', 'hd', '7660g', '+', 'hd', '7600m', 'dual']	773
+['radeon', 'hd', '7660g', '+', 'hd', '7670m', 'dual']	706
+['radeon', 'hd', '7660g', '+', 'hd', '7700m', 'dual']	751
+['radeon', 'hd', '7660g', '+', 'hd', '7730m', 'dual']	881
+['radeon', 'hd', '7660g', '+', 'hd', '8670m', 'dual']	711
+['radeon', 'hd', '7660g', 'n', 'hd', '7660g', '+', 'hd', '7600m', 'n', 'hd', '7600m', 'd']	722
+['radeon', 'hd', '7660g', 'n', 'hd', '7660g', '+', 'hd', '7670m', 'dual']	704
+['radeon', 'hd', '7660g', 'n', 'hd', '7660g', '+', 'hd', '7700m', 'n', 'hd', '7700m', 'd']	966
+['radeon', 'hd', '7670']	1115
+['radeon', 'hd', '7670a']	1050
+['radeon', 'hd', '7670m']	812
+['radeon', 'hd', '7670m', '+', '7670m', 'dual']	738
+['radeon', 'hd', '7690m']	1003
+['radeon', 'hd', '7690m', 'xt']	1009
+['radeon', 'hd', '7730']	1426
+['radeon', 'hd', '7730m']	994
+['radeon', 'hd', '7750']	1711
+['radeon', 'hd', '7750m']	1191
+['radeon', 'hd', '7770']	2224
+['radeon', 'hd', '7790']	3083
+['radeon', 'hd', '7850']	3848
+['radeon', 'hd', '7850m']	1372
+['radeon', 'hd', '7870']	4383
+['radeon', 'hd', '7870', 'xt']	4469
+['radeon', 'hd', '7870m']	1507
+['radeon', 'hd', '7950', '/', 'r9', '280']	4764
+['radeon', 'hd', '7970', '/', 'r9', '280x']	5247
+['radeon', 'hd', '7970m']	3804
+['radeon', 'hd', '7990']	5563
+['radeon', 'hd', '8180']	195
+['radeon', 'hd', '8210']	250
+['radeon', 'hd', '8240']	278
+['radeon', 'hd', '8250']	257
+['radeon', 'hd', '8280']	319
+['radeon', 'hd', '8280e']	317
+['radeon', 'hd', '8280g']	269
+['radeon', 'hd', '8330']	333
+['radeon', 'hd', '8330e']	319
+['radeon', 'hd', '8350']	265
+['radeon', 'hd', '8350g']	443
+['radeon', 'hd', '8370d']	432
+['radeon', 'hd', '8400']	355
+['radeon', 'hd', '8400e']	339
+['radeon', 'hd', '8410g']	435
+['radeon', 'hd', '8450g']	412
+['radeon', 'hd', '8450g', '+', '8600m', 'dual']	545
+['radeon', 'hd', '8450g', '+', '8670m', 'dual']	474
+['radeon', 'hd', '8450g', '+', '8750m', 'dual']	637
+['radeon', 'hd', '8450g', '+', 'hd', '8600m', 'dual']	452
+['radeon', 'hd', '8450g', '+', 'hd', '8670m', 'dual']	574
+['radeon', 'hd', '8450g', '+', 'hd', '8750m', 'dual']	483
+['radeon', 'hd', '8470']	343
+['radeon', 'hd', '8470d']	521
+['radeon', 'hd', '8470d', '+', '6450', 'dual']	717
+['radeon', 'hd', '8470d', '+', 'hd', '7500', 'dual']	1545
+['radeon', 'hd', '8490']	377
+['radeon', 'hd', '8500m']	543
+['radeon', 'hd', '8500m/8700m']	852
+['radeon', 'hd', '8510g']	497
+['radeon', 'hd', '8510g', '+', '8500m', 'dual']	596
+['radeon', 'hd', '8550d']	685
+['radeon', 'hd', '8550g']	719
+['radeon', 'hd', '8550g', '+', '8500m', 'dual']	602
+['radeon', 'hd', '8550g', '+', '8570m', 'dual']	532
+['radeon', 'hd', '8550g', '+', '8600/8700m', 'dual']	802
+['radeon', 'hd', '8550g', '+', '8600m', 'dual']	617
+['radeon', 'hd', '8550g', '+', '8670m', 'dual']	579
+['radeon', 'hd', '8550g', '+', '8690m', 'dual']	664
+['radeon', 'hd', '8550g', '+', '8750m', 'dual']	795
+['radeon', 'hd', '8550g', '+', 'hd', '7600m', 'dual']	854
+['radeon', 'hd', '8550g', '+', 'hd', '8570m', 'dual']	529
+['radeon', 'hd', '8550g', '+', 'hd', '8600/8700m', 'dual']	813
+['radeon', 'hd', '8550g', '+', 'hd', '8600m', 'dual']	593
+['radeon', 'hd', '8550g', '+', 'hd', '8670m', 'dual']	546
+['radeon', 'hd', '8550g', '+', 'hd', '8750m', 'dual']	819
+['radeon', 'hd', '8550g', '+', 'r5', 'm200', 'dual']	619
+['radeon', 'hd', '8550g', '+', 'r5', 'm230', 'dual']	667
+['radeon', 'hd', '8570']	988
+['radeon', 'hd', '8570', '+', '8670d', 'dual']	620
+['radeon', 'hd', '8570d']	679
+['radeon', 'hd', '8570d', '+', '6570', 'dual']	1239
+['radeon', 'hd', '8570d', '+', 'hd', '6570', 'dual']	868
+['radeon', 'hd', '8570d', '+', 'hd', '6670', 'dual']	1260
+['radeon', 'hd', '8570d', '+', 'hd', '7000', 'dual']	753
+['radeon', 'hd', '8570d', '+', 'hd', '7700', 'dual']	1834
+['radeon', 'hd', '8570d', '+', 'hd', '8570', 'dual']	1032
+['radeon', 'hd', '8570d', '+', 'r7', '200', 'dual']	999
+['radeon', 'hd', '8570d', '+', 'r7', '240', 'dual']	963
+['radeon', 'hd', '8570m']	534
+['radeon', 'hd', '8600/8700m']	1029
+['radeon', 'hd', '8610g']	551
+['radeon', 'hd', '8610g', '+', '8500m', 'dual']	610
+['radeon', 'hd', '8610g', '+', '8600m', 'dual']	588
+['radeon', 'hd', '8610g', '+', '8670m', 'dual']	599
+['radeon', 'hd', '8610g', '+', 'hd', '8500m', 'dual']	645
+['radeon', 'hd', '8610g', '+', 'hd', '8600m', 'dual']	583
+['radeon', 'hd', '8610g', '+', 'hd', '8670m', 'dual']	577
+['radeon', 'hd', '8610g', '+', 'r5', 'm200', 'dual']	676
+['radeon', 'hd', '8650d']	525
+['radeon', 'hd', '8650g']	911
+['radeon', 'hd', '8650g', '+', '7600m', 'dual']	741
+['radeon', 'hd', '8650g', '+', '7670m', 'dual']	883
+['radeon', 'hd', '8650g', '+', '8500m', 'dual']	626
+['radeon', 'hd', '8650g', '+', '8570m', 'dual']	654
+['radeon', 'hd', '8650g', '+', '8600/8700m', 'dual']	831
+['radeon', 'hd', '8650g', '+', '8600m', 'dual']	613
+['radeon', 'hd', '8650g', '+', '8670m', 'dual']	635
+['radeon', 'hd', '8650g', '+', '8750m', 'dual']	786
+['radeon', 'hd', '8650g', '+', 'hd', '7600m', 'dual']	819
+['radeon', 'hd', '8650g', '+', 'hd', '7670m', 'dual']	634
+['radeon', 'hd', '8650g', '+', 'hd', '8570m', 'dual']	716
+['radeon', 'hd', '8650g', '+', 'hd', '8600/8700m', 'dual']	763
+['radeon', 'hd', '8650g', '+', 'hd', '8600m', 'dual']	601
+['radeon', 'hd', '8650g', '+', 'hd', '8670m', 'dual']	585
+['radeon', 'hd', '8650g', '+', 'hd', '8750m', 'dual']	778
+['radeon', 'hd', '8650g', '+', 'r5', 'm200', 'dual']	722
+['radeon', 'hd', '8650g', '+', 'r5', 'm230', 'dual']	686
+['radeon', 'hd', '8650g', 'n', 'hd', '8650g', '+', 'hd', '8570m', 'dual']	773
+['radeon', 'hd', '8650g', 'n', 'hd', '8650g', '+', 'hd', '8600m', 'n', 'hd', '8600m', 'd']	679
+['radeon', 'hd', '8670d']	780
+['radeon', 'hd', '8670d', '+', '6670', 'dual']	1361
+['radeon', 'hd', '8670d', '+', '7700', 'dual']	1788
+['radeon', 'hd', '8670d', '+', 'hd', '6670', 'dual']	1221
+['radeon', 'hd', '8670d', '+', 'hd', '7000', 'dual']	718
+['radeon', 'hd', '8670d', '+', 'r5', '235', 'dual']	836
+['radeon', 'hd', '8670d', '+', 'r7', '200', 'dual']	949
+['radeon', 'hd', '8670d', '+', 'r7', '240', 'dual']	1020
+['radeon', 'hd', '8670m']	520
+['radeon', 'hd', '8690a']	607
+['radeon', 'hd', '8690m']	984
+['radeon', 'hd', '8730m']	1050
+['radeon', 'hd', '8750m']	1070
+['radeon', 'hd', '8790m']	1315
+['radeon', 'hd', '8790m', '/', 'r9', 'm290x']	1236
+['radeon', 'hd', '8850m']	973
+['radeon', 'hd', '8850m', '/', 'r9', 'm265x']	1139
+['radeon', 'hd', '8870m']	1638
+['radeon', 'hd', '8870m', '/', 'r9', 'm270x', '/', 'm370x']	1799
+['radeon', 'hd', '8950']	3038
+['radeon', 'hd', '8970m']	3876
+['radeon', 'hd', '8990']	4999
+['radeon', 'hd6370d']	320
+['radeon', 'hd6410d']	422
+['radeon', 'hd6530d']	531
+['radeon', 'hd7570']	1028
+['radeon', 'hd8490']	366
+['radeon', 'hd8530m']	498
+['radeon', 'hd8970m']	3368
+['radeon', 'igp', '320m']	3
+['radeon', 'igp', '340m']	2
+['radeon', 'igp', '345m']	2
+['radeon', 'igp', '350m']	6
+['radeon', 'infoshock', '3000']	106
+['radeon', 'pro', '450']	2722
+['radeon', 'pro', '455']	3112
+['radeon', 'pro', '460']	3452
+['radeon', 'pro', '5500m']	6713
+['radeon', 'pro', '555']	3140
+['radeon', 'pro', '560']	3475
+['radeon', 'pro', '570']	6336
+['radeon', 'pro', '580']	7753
+['radeon', 'pro', 'duo']	9436
+['radeon', 'pro', 'ssg']	10497
+['radeon', 'pro', 'vega', '20']	6375
+['radeon', 'pro', 'vega', '48']	11795
+['radeon', 'pro', 'vega', '56']	11915
+['radeon', 'pro', 'vega', '64']	11455
+['radeon', 'pro', 'wx', '2100']	2227
+['radeon', 'pro', 'wx', '3100']	3310
+['radeon', 'pro', 'wx', '4100']	4062
+['radeon', 'pro', 'wx', '4130']	2984
+['radeon', 'pro', 'wx', '4150']	3208
+['radeon', 'pro', 'wx', '5100']	5665
+['radeon', 'pro', 'wx', '7100']	7857
+['radeon', 'pro', 'wx', '8200']	11403
+['radeon', 'pro', 'wx', '9100']	10734
+['radeon', 'pro', 'wx3200']	1740
+['radeon', 'pro', 'wx4100']	3953
+['radeon', 'r1e']	301
+['radeon', 'r2']	301
+['radeon', 'r2e']	242
+['radeon', 'r3']	369
+['radeon', 'r3e']	256
+['radeon', 'r4']	397
+['radeon', 'r5', '220']	233
+['radeon', 'r5', '230']	247
+['radeon', 'r5', '235']	368
+['radeon', 'r5', '235', '+', 'hd', '7560d', 'dual']	743
+['radeon', 'r5', '235x']	367
+['radeon', 'r5', '240']	649
+['radeon', 'r5', '310']	337
+['radeon', 'r5', '330']	570
+['radeon', 'r5', '340']	1054
+['radeon', 'r5', '420']	757
+['radeon', 'r5', '430']	1028
+['radeon', 'r5', 'a10-9600p', '4c+6g']	807
+['radeon', 'r5', 'a10-9620p', '4c+6g']	804
+['radeon', 'r5', 'a10-9630p', '4c+6g']	1436
+['radeon', 'r5', 'a6-7480']	629
+['radeon', 'r5', 'a6-9500', '2c+6g']	1021
+['radeon', 'r5', 'm230']	567
+['radeon', 'r5', 'm240']	556
+['radeon', 'r5', 'm255']	763
+['radeon', 'r5', 'm315']	609
+['radeon', 'r5', 'm320']	555
+['radeon', 'r5', 'm330']	595
+['radeon', 'r5', 'm335']	548
+['radeon', 'r5', 'm420']	555
+['radeon', 'r5', 'm430']	648
+['radeon', 'r5', 'm435']	602
+['radeon', 'r5', 'opteron', 'x3216']	436
+['radeon', 'r5', 'pro', 'a10-8730b', '4c+6g']	822
+['radeon', 'r5', 'pro', 'a6-8530b', '2c+4g']	689
+['radeon', 'r5', 'pro', 'a6-8570', '2c+6g']	1079
+['radeon', 'r5', 'pro', 'a6-8570e', '2c+4g']	839
+['radeon', 'r5', 'pro', 'a6-9500', '2c+6g']	906
+['radeon', 'r5', 'pro', 'a6-9500b', '2c+4g']	693
+['radeon', 'r5', 'pro', 'a6-9500e', '2c+4g']	877
+['radeon', 'r5', 'pro', 'a8-9600b', '4c+6g']	845
+['radeon', 'r5e']	338
+['radeon', 'r6']	643
+['radeon', 'r6', '+', 'r7', 'm265dx', 'dual']	570
+['radeon', 'r6', 'a10-8700p']	680
+['radeon', 'r6', 'a8-8600p']	560
+['radeon', 'r6', 'm255dx']	597
+['radeon', 'r6', 'pro', 'a10-8700b', '4c+6g']	572
+['radeon', 'r6', 'pro', 'a8-8600b', '4c+6g']	593
+['radeon', 'r7', '+', 'hd', '7700', 'dual']	1962
+['radeon', 'r7', '+', 'r5', '330', 'dual']	1028
+['radeon', 'r7', '+', 'r5', '435', 'dual', 'a10-9700', 'radeon']	885
+['radeon', 'r7', '+', 'r7', '200', 'dual']	1279
+['radeon', 'r7', '+', 'r7', '240', 'dual']	1045
+['radeon', 'r7', '+', 'r7', '350', 'dual']	1982
+['radeon', 'r7', '240']	976
+['radeon', 'r7', '240', '+', 'hd', '8570d', 'dual']	917
+['radeon', 'r7', '240', '+', 'hd', '8670d', 'dual']	930
+['radeon', 'r7', '250']	1403
+['radeon', 'r7', '250x']	2268
+['radeon', 'r7', '260']	2891
+['radeon', 'r7', '260x']	3179
+['radeon', 'r7', '340']	1047
+['radeon', 'r7', '360']	3315
+['radeon', 'r7', '370']	4644
+['radeon', 'r7', '430']	1419
+['radeon', 'r7', '450']	2204
+['radeon', 'r7', 'a10', 'extreme', 'edition']	790
+['radeon', 'r7', 'a10', 'pro-7800b']	756
+['radeon', 'r7', 'a10', 'pro-7850b']	962
+['radeon', 'r7', 'a10-7700k']	896
+['radeon', 'r7', 'a10-7800']	888
+['radeon', 'r7', 'a10-7850k']	1020
+['radeon', 'r7', 'a10-7860k']	975
+['radeon', 'r7', 'a10-7870k']	1123
+['radeon', 'r7', 'a10-7890k']	1154
+['radeon', 'r7', 'a10-8750']	990
+['radeon', 'r7', 'a10-8850']	1114
+['radeon', 'r7', 'a10-9700', 'radeon']	1159
+['radeon', 'r7', 'a10-9700e', 'radeon']	1105
+['radeon', 'r7', 'a12-9700p', 'radeon']	750
+['radeon', 'r7', 'a12-9720p', 'radeon']	930
+['radeon', 'r7', 'a12-9730p', 'radeon']	861
+['radeon', 'r7', 'a12-9800', 'radeon']	1244
+['radeon', 'r7', 'a12-9800e', 'radeon']	1142
+['radeon', 'r7', 'a265']	987
+['radeon', 'r7', 'a370']	1281
+['radeon', 'r7', 'a8', 'pro-7600b']	738
+['radeon', 'r7', 'a8-7500']	1027
+['radeon', 'r7', 'a8-7500', '4c+6g']	853
+['radeon', 'r7', 'a8-7600']	923
+['radeon', 'r7', 'a8-7650k']	862
+['radeon', 'r7', 'a8-7670k']	864
+['radeon', 'r7', 'a8-7680']	955
+['radeon', 'r7', 'a8-8650']	910
+['radeon', 'r7', 'a8-9600', 'radeon']	1084
+['radeon', 'r7', 'fx-8800p']	1026
+['radeon', 'r7', 'fx-9800p', 'radeon']	836
+['radeon', 'r7', 'fx-9830p', 'radeon']	1795
+['radeon', 'r7', 'm260']	666
+['radeon', 'r7', 'm260dx']	689
+['radeon', 'r7', 'm260x']	1115
+['radeon', 'r7', 'm265']	825
+['radeon', 'r7', 'm270']	774
+['radeon', 'r7', 'm340']	773
+['radeon', 'r7', 'm350']	1260
+['radeon', 'r7', 'm360']	732
+['radeon', 'r7', 'm365x']	905
+['radeon', 'r7', 'm370']	1417
+['radeon', 'r7', 'm440']	955
+['radeon', 'r7', 'm445']	1082
+['radeon', 'r7', 'm460']	1153
+['radeon', 'r7', 'm465']	1306
+['radeon', 'r7', 'm465x']	2057
+['radeon', 'r7', 'opteron', 'x3421']	1050
+['radeon', 'r7', 'pro', 'a10-8750b']	954
+['radeon', 'r7', 'pro', 'a10-8770']	1319
+['radeon', 'r7', 'pro', 'a10-8770e']	1147
+['radeon', 'r7', 'pro', 'a10-8850b']	945
+['radeon', 'r7', 'pro', 'a10-9700']	1281
+['radeon', 'r7', 'pro', 'a10-9700b']	1066
+['radeon', 'r7', 'pro', 'a10-9700e']	1142
+['radeon', 'r7', 'pro', 'a12-8800b']	743
+['radeon', 'r7', 'pro', 'a12-8830b']	900
+['radeon', 'r7', 'pro', 'a12-8870']	1375
+['radeon', 'r7', 'pro', 'a12-8870e']	1160
+['radeon', 'r7', 'pro', 'a12-9800']	1335
+['radeon', 'r7', 'pro', 'a12-9800b']	823
+['radeon', 'r7', 'pro', 'a12-9800e']	1014
+['radeon', 'r7', 'pro', 'a6-9500', '2c+6g']	781
+['radeon', 'r7', 'pro', 'a8-8650b']	832
+['radeon', 'r7', 'pro', 'a8-9600']	1049
+['radeon', 'r8', 'm365dx']	740
+['radeon', 'r8', 'm445dx']	818
+['radeon', 'r8', 'm535dx']	724
+['radeon', 'r9', '255']	1806
+['radeon', 'r9', '260']	3018
+['radeon', 'r9', '270', '/', 'r7', '370']	4260
+['radeon', 'r9', '270x']	4696
+['radeon', 'r9', '280']	5380
+['radeon', 'r9', '280x']	5853
+['radeon', 'r9', '285', '/', '380']	5550
+['radeon', 'r9', '290', '/', '390']	7151
+['radeon', 'r9', '290x', '/', '390x']	7452
+['radeon', 'r9', '295x2']	7773
+['radeon', 'r9', '350']	2235
+['radeon', 'r9', '360']	3031
+['radeon', 'r9', '370']	4722
+['radeon', 'r9', '380']	6159
+['radeon', 'r9', '380x']	6235
+['radeon', 'r9', '390']	8104
+['radeon', 'r9', '390x']	8497
+['radeon', 'r9', 'fury']	9189
+['radeon', 'r9', 'fury', '+', 'fury', 'x']	8482
+['radeon', 'r9', 'm265x']	1301
+['radeon', 'r9', 'm270x']	1444
+['radeon', 'r9', 'm275']	1114
+['radeon', 'r9', 'm275x', '/', 'm375']	1528
+['radeon', 'r9', 'm290x']	4092
+['radeon', 'r9', 'm295x']	5150
+['radeon', 'r9', 'm360']	2070
+['radeon', 'r9', 'm370x']	1942
+['radeon', 'r9', 'm375']	1239
+['radeon', 'r9', 'm375x']	2121
+['radeon', 'r9', 'm380']	3101
+['radeon', 'r9', 'm385x']	885
+['radeon', 'r9', 'm390x']	4356
+['radeon', 'r9', 'm395']	5022
+['radeon', 'r9', 'm395x']	5782
+['radeon', 'r9', 'm470']	2435
+['radeon', 'r9', 'm470x']	3563
+['radeon', 'rx', '460']	4333
+['radeon', 'rx', '470']	7763
+['radeon', 'rx', '480']	8147
+['radeon', 'rx', '540']	2339
+['radeon', 'rx', '550']	3431
+['radeon', 'rx', '5500']	6202
+['radeon', 'rx', '550x']	2025
+['radeon', 'rx', '560']	4307
+['radeon', 'rx', '560x']	3454
+['radeon', 'rx', '570']	6895
+['radeon', 'rx', '5700']	12254
+['radeon', 'rx', '5700', 'xt']	13827
+['radeon', 'rx', '5700', 'xt', '50th', 'anniversary']	14124
+['radeon', 'rx', '580']	8554
+['radeon', 'rx', '580', '2048sp']	8652
+['radeon', 'rx', '590']	9449
+['radeon', 'rx', 'vega', '10']	1736
+['radeon', 'rx', 'vega', '11']	2272
+['radeon', 'rx', 'vega', '56']	12034
+['radeon', 'rx', 'vega', '64']	12150
+['radeon', 'rx', 'vega', '8']	1737
+['radeon', 'rx', 'vega', 'm', 'gh']	7045
+['radeon', 'rx', 'vega', 'm', 'gl']	5257
+['radeon', 'rx', 'vega11']	1723
+['radeon', 'sky', '500']	4889
+['radeon', 'tm', 'r9', 'a360']	2148
+['radeon', 'vega', '10']	1799
+['radeon', 'vega', '10', 'mobile']	1667
+['radeon', 'vega', '11']	1982
+['radeon', 'vega', '3']	1071
+['radeon', 'vega', '3', 'mobile']	1095
+['radeon', 'vega', '6']	1546
+['radeon', 'vega', '8']	1743
+['radeon', 'vega', '8', 'mobile']	1634
+['radeon', 'vega', '9']	1821
+['radeon', 'vega', 'frontier', 'edition']	11217
+['radeon', 'vii']	14129
+['radeon', 'x1050']	49
+['radeon', 'x1200']	32
+['radeon', 'x1250']	37
+['radeon', 'x1270']	31
+['radeon', 'x1300']	58
+['radeon', 'x1300', 'pro']	84
+['radeon', 'x1550']	66
+['radeon', 'x1550', '64-bit']	47
+['radeon', 'x1600']	49
+['radeon', 'x1600', 'pro']	98
+['radeon', 'x1600', 'pro', '/', 'x1300xt']	69
+['radeon', 'x1600', 'xt']	115
+['radeon', 'x1650', 'gto']	74
+['radeon', 'x1650', 'pro']	84
+['radeon', 'x1650', 'se']	71
+['radeon', 'x1700', 'targa', 'edition']	116
+['radeon', 'x1800', 'gto']	140
+['radeon', 'x1900', 'crossfire', 'edition']	137
+['radeon', 'x1900', 'gt']	145
+['radeon', 'x1950', 'crossfire', 'edition']	151
+['radeon', 'x1950', 'gt']	106
+['radeon', 'x1950', 'pro']	113
+['radeon', 'x300se']	38
+['radeon', 'x550']	50
+['radeon', 'x550xt']	56
+['radeon', 'x550xtx']	70
+['radeon', 'x600', '256mb', 'hypermemory']	56
+['radeon', 'x600xt']	91
+['radeon', 'x700']	72
+['radeon', 'x700', 'pro']	75
+['radeon', 'x700', 'se']	71
+['radeon', 'x800', 'gt']	84
+['radeon', 'x800', 'gto']	76
+['radeon', 'x800', 'pro']	64
+['radeon', 'x800', 'pro/gto']	73
+['radeon', 'x800', 'xl']	69
+['radeon', 'x800', 'xt']	97
+['radeon', 'x800gt']	79
+['radeon', 'x850', 'pro']	72
+['radeon', 'x850', 'xt']	81
+['radeon', 'x850', 'xt', 'platinum', 'edition']	81
+['radeon', 'xpress', '1100']	34
+['radeon', 'xpress', '1150']	29
+['radeon', 'xpress', '1200']	35
+['radeon', 'xpress', '1250']	42
+['radeon', 'xpress', '1270']	26
+['radeon', 'xpress', '200']	29
+['radeon', 'xpress', '200m']	22
+['radeont', 'r5', '430']	1123
+['radeont', 'r7', '450']	2184
+['radeont', 'rx', '5500m']	7299
+['rage', '128', 'pro', 'agp', '4x', 'tmds']	1
+['rage', 'fury', 'pro/xpert', '2000', 'pro']	3
+['red', 'hat', 'qxl', 'controller']	31
+['rgh', 'drivers', 'v3']	11
+['riva', 'tnt2', 'model', '64/model', '64', 'pro']	3
+['riva', 'tnt2/tnt2', 'pro']	3
+['rv530', 'pro']	118
+['ryzen', '5', '2500u', 'with', 'radeon', 'vega']	1503
+['ryzen', '7', '2700u', 'with', 'radeon', 'vega']	1617
+['s3', 'chrome', '430', 'ulp']	39
+['s3', 'chrome', 's25', 'ddr2']	18
+['s3', 'prosavageddr']	1
+['sapphire', 'radeon', '9600', 'atlantis']	47
+['sapphire', 'radeon', 'x1550']	61
+['sapphire', 'radeon', 'x800', 'gt']	112
+['sumo', '9640']	650
+['sumo', '964a']	497
+['tesla', 'c2050']	3515
+['tesla', 'c2050', '/', 'c2070']	3428
+['tesla', 'c2070']	3274
+['tesla', 'c2075']	3364
+['tesla', 'm60']	7191
+['tesla', 'p100-pcie-16gb']	7225
+['titan', 'rtx']	16353
+['titan', 'v']	14530
+['titan', 'v', 'ceo', 'edition']	16987
+['titan', 'xp', 'collectors', 'edition']	15127
+['trinity', 'devastator', 'mobile']	699
+['trinity', 'scrapper', 'mobile']	498
+['vanta/vanta', 'lt']	3
+['via', 'chrome9', 'hc', 'igp']	4
+['via', 'chrome9', 'hc', 'igp', 'family']	3
+['via', 'chrome9', 'hc', 'igp', 'family', 'wddm']	3
+['via', 'chrome9', 'hc', 'igp', 'prerelease', 'wddm', '1.1']	2
+['via', 'chrome9', 'hc', 'igp', 'wddm']	2
+['via', 'chrome9', 'hc', 'igp', 'wddm', '1.1']	2
+['via', 'chrome9', 'hcm', 'igp']	1
+['via', 'chrome9', 'hd', 'igp']	10
+['via/s3g', 'chrome', '645/640', 'gpu']	109
+['via/s3g', 'deltachrome', 'igp']	3
+['via/s3g', 'km400/kn400']	4
+['via/s3g', 'unichrome', 'igp']	4
+['via/s3g', 'unichrome', 'pro', 'igp']	4
+['via/s3g', 'unichromeii']	5
+['wine', 'display', 'adapter']	261
+['xabre']	5
+['xfx', 'radeon', 'hd', '4650', 'agp']	109
