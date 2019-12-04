@@ -1,4 +1,4 @@
-# KHDL_DACK
+# KHDL: ĐỒ ÁN CUỐI KÌ
 
 Lấy cảm hứng từ bài toán dự đoán giá rượu, nếu dựa trên các thuộc tính thu thập được mà có thể dự đoán ra giá tiền thì chúng ta không cần có người định giá rượu nữa. Và đề tài của chúng tôi là dự đoán lương của các cầu thủ bóng rổ cho mùa tiếp theo dựa trên chỉ số của họ trong mùa này.
 
@@ -6,9 +6,7 @@ Lấy cảm hứng từ bài toán dự đoán giá rượu, nếu dựa trên c
 
 ## Trang web
 
-Link: https://www.basketball-reference.com/leagues/NBA_2019_per_game.html
-
-Đây là trang web chứa thông tin của các cầu thủ với tất cả các trận của họ trong 2018-2019 và có định dạng như sau
+Trước hết, chúng ta cần có thông tin của cầu thủ. Và trong đồ án này, chúng ta chỉ xét tất cả các trận đấu của họ trong 2018-2019 mà được đề cập trong trang này: https://www.basketball-reference.com/leagues/NBA_2019_per_game.html
 
 ![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/source_player.png)
 
@@ -49,3 +47,18 @@ Lưu ý, từ đây, các số liệu này là lấy trung bình của tất c�
 [1] Offensive rebound: khi một người tấn công trong đội A ném trượt, người này cũng trong đội A chụp được quả bóng và thực hiện ném lần hai
 
 [2] Deffensive rebound: khi một người tấn công trong đội A ném trượt, người này trong đội B chặn và chiếm được quả bóng 
+
+Tiếp theo, ta cần biết mức lương của họ: https://hoopshype.com/salaries/players/
+
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/source_salary.png)
+
+## Thu thập dữ liệu
+
+Theo như tập tin jupyter notebook đính kèm (crawl_data.ipynb) thì sau khi thu thập xong, chúng ta sẽ có được hai dataframe của cầu thủ và mức lương lần lượt như sau:
+
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/data_frame_player.png)
+
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/data_frame_salary.png)
+
+Ta tiến hành hợp nhất hai bảng này lại với nhau và lưu vào luôn player.csv:
+
