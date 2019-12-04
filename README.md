@@ -6,6 +6,7 @@ Lấy cảm hứng từ bài toán dự đoán giá rượu, nếu dựa trên c
 
 ## Trang web
 
+### Thông tin cầu thủ
 Trước hết, chúng ta cần có thông tin của cầu thủ. Và trong đồ án này, chúng ta chỉ xét tất cả các trận đấu của họ trong 2018-2019 mà được đề cập trong trang này: https://www.basketball-reference.com/leagues/NBA_2019_per_game.html
 
 ![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/source_player.png)
@@ -48,9 +49,12 @@ Lưu ý, từ đây, các số liệu này là lấy trung bình của tất c�
 
 [2] Deffensive rebound: khi một người tấn công trong đội A ném trượt, người này trong đội B chặn và chiếm được quả bóng 
 
+### Mức lương
 Tiếp theo, ta cần biết mức lương của họ: https://hoopshype.com/salaries/players/
 
 ![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/source_salary.png)
+
+Trang web này thì không có gì nhiều cần chú thích, nhắc lại là chúng tôi chỉ lấy lương của họ trong mùa này nên chỉ lấy cột đầu tiên (2019/20) 
 
 ## Thu thập dữ liệu
 
