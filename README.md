@@ -66,3 +66,12 @@ Theo như tập tin jupyter notebook đính kèm (crawl_data.ipynb) thì sau khi
 
 Ta tiến hành hợp nhất hai bảng này lại với nhau và lưu vào luôn player.csv:
 
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/player_salary_merged.png)
+
+## Tiền xử lý
+
+...
+
+## Huấn luyện mô hình và kiểm thử
+
+...
