@@ -39,9 +39,9 @@ Lưu ý, từ đây, các số liệu này là lấy trung bình của tất c�
   - DRB (Defensive Rebounds Per Game): Số lần thực hiện defensive rebound mỗi trận [2]
   - TRB (Total Rebounds Per Game): Tổng số lần rebound mỗi trận
   - AST (Assists Per Game): Số lần hỗ trợ ghi bàn mỗi trận
-  - STL (Steals Per Game): Số lần cướp bàn ghi mỗi trận
+  - STL (Steals Per Game): Số lần cướp bóng mỗi trận
   - BLK (Blocks Per Game): Số lần chặn đối phương ghi bàn mỗi trận
-  - TOV (Turnovers Per Game): Số lần phản bóng mỗi trận
+  - TOV (Turnovers Per Game): Số lần mất bóng mỗi trận
   - PF (Personal Fouls Per Game): Số lỗi mỗi trận mắc phải
   - PTS (Points Per Game): Số điểm ghi được mỗi trận
 
@@ -64,7 +64,7 @@ Theo như tập tin jupyter notebook đính kèm (crawl_data.ipynb) thì sau khi
 
 ![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/data_frame_salary.png)
 
-Ta tiến hành hợp nhất hai bảng này lại với nhau và lưu vào luôn player.csv:
+Ta tiến hành hợp nhất hai bảng này lại với nhau và lưu vào luôn player.csv, trong đó, loại bỏ các cầu thủ không có trong cả hai bảng hoặc cầu thủ có lương không công khai
 
 ![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/player_salary_merged.png)
 
