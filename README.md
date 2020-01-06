@@ -70,8 +70,35 @@ Ta tiến hành hợp nhất hai bảng này lại với nhau và lưu vào luô
 
 ## Tiền xử lý
 
-...
+Trước tiên, tập train và test được chia theo tỉ lệ 80 – 20.
 
-## Huấn luyện mô hình và kiểm thử
+Với cột Age, giá trị dao động từ 19 đến 42, điều này sẽ khó cho mô hình trong việc đặt trọng số. Dựa vào đồ thị sau, ta chia độ tuổi ra thành 3 nhóm chính:
+- Trẻ (Young): <25
+- Tuổi vàng (Prime): 25≤ tuổi ≤30
+- Lớn tuổi (Old): >30
 
-...
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/barplot_age_salary.png)
+
+Xét cột Pos (vị trí), có một số pos chỉ xuất hiện 1, 2 lần, nếu ta one-hot encode chúng có thể sẽ tạo ra nhiễu. Mà những pos đó là của các tuyển thủ chơi 2 vị trí, nhóm quyết định là những tuyển thủ chơi nhiều vị trí sẽ gộp vô luôn vị trí đầu tiên của họ.
+
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/groupby_pos.png)
+
+Xem xét độ tương quan giữa các cột, ta thấy có sự liên quan giữa các cột (fg, fga, fgp), (3p, 3pa, 3pp), (2p, 2pa, 2pp), (ft, fta, ftp).
+Khi xét độ tương quan của các cột với mức lương thì các cột về tỷ lệ có mức tương quan thấp hơn nhiều so với các cột thường.
+
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/corr_all_vs_salary.png)
+
+⟹ Các cột tỷ lệ là không cần thiết, bỏ các cột đó đi (fp, 3pp, 2pp, ftp)
+
+Cuối cùng là bỏ đi cột tên. Các cột số nếu có giá trị thiếu sẽ được điền vào bằng mean của cột đó. Còn các cột là category có giá trị thiếu sẽ được điền bằng giá trị phổ biến nhất, sau đó sẽ được one-hot encode.
+
+## Mô hình
+
+Nhóm đã thử với nhiều mô hình regression, nhưng do bản chất dữ liệu có xu hướng tản về hai phía nên khó tìm được "đường" để fit được chúng. Dưới đây là một số kết quả:
+
+![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/results.png)
+
+## Kết luận
+
+Theo bảng số liệu trên, mô hình cho kết quả cao nhất là Elastic Net Regression (cũng chỉ 50% trên tập test).
+Kết luận: Độ chính xác còn thấp, không nên trông cậy nhiều, chỉ sử dụng để hỗ trợ.
