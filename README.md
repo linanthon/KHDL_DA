@@ -52,7 +52,7 @@ Lưu ý, từ đây, các số liệu này là lấy trung bình của tất c�
 ### Mức lương
 Tiếp theo, ta cần biết mức lương của họ: https://hoopshype.com/salaries/players/
 
-![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/source_salary.png)
+<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/source_salary.png" width=700 height=560>
 
 Trang web này thì không có gì nhiều cần chú thích, nhắc lại là chúng tôi chỉ lấy lương của họ trong mùa này nên chỉ lấy cột đầu tiên (2019/20) 
 
@@ -62,7 +62,7 @@ Theo như tập tin jupyter notebook đính kèm (crawl_data.ipynb) thì sau khi
 
 ![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/data_frame_player.png)
 
-![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/data_frame_salary.png)
+<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/data_frame_salary.png" width=225 height=170>
 
 Ta tiến hành hợp nhất hai bảng này lại với nhau và lưu vào luôn player.csv, trong đó, loại bỏ các cầu thủ không có trong cả hai bảng hoặc cầu thủ có lương không công khai
 
@@ -81,12 +81,12 @@ Với cột Age, giá trị dao động từ 19 đến 42, điều này sẽ kh�
 
 Xét cột Pos (vị trí), có một số pos chỉ xuất hiện 1, 2 lần, nếu ta one-hot encode chúng có thể sẽ tạo ra nhiễu. Mà những pos đó là của các tuyển thủ chơi 2 vị trí, nhóm quyết định là những tuyển thủ chơi nhiều vị trí sẽ gộp vô luôn vị trí đầu tiên của họ.
 
-![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/groupby_pos.png)
+<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/groupby_pos.png" width=284 height=330>
 
 Xem xét độ tương quan giữa các cột, ta thấy có sự liên quan giữa các cột (fg, fga, fgp), (3p, 3pa, 3pp), (2p, 2pa, 2pp), (ft, fta, ftp).
 Khi xét độ tương quan của các cột với mức lương thì các cột về tỷ lệ có mức tương quan thấp hơn nhiều so với các cột thường.
 
-![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/corr_all_vs_salary.png)
+<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/corr_all_vs_salary.png" width=340 height=240>
 
 ⟹ Các cột tỷ lệ là không cần thiết, bỏ các cột đó đi (fp, 3pp, 2pp, ftp)
 
@@ -96,7 +96,7 @@ Cuối cùng là bỏ đi cột tên. Các cột số nếu có giá trị thi�
 
 Nhóm đã thử với nhiều mô hình regression, nhưng do bản chất dữ liệu có xu hướng tản về hai phía nên khó tìm được "đường" để fit được chúng. Dưới đây là một số kết quả:
 
-![alt text](https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/results.png)
+<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/results.png" width=425 height=190>
 
 ## Kết luận
 
