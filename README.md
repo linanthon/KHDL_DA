@@ -99,6 +99,8 @@ Nhóm đã thử với nhiều mô hình regression, nhưng do bản chất dữ
 
 <img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/results.png" width=425 height=190>
 
+Các mô hình còn dự đoán ra lương âm cho một số tuyển thủ, nếu ra lương âm, thay bằng min lương của tập train.
+
 Nhóm đã thử sử dụng đơn vị khác (triệu USD) và scale cột salary, đều cho ra kết quả không khá hơn.
 
 ## Kết luận
