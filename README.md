@@ -97,7 +97,7 @@ Cuối cùng là bỏ đi cột tên. Các cột số nếu có giá trị thi�
 
 Nhóm đã thử với nhiều mô hình regression, nhưng do bản chất dữ liệu có xu hướng tản về hai phía nên khó tìm được "đường" để fit được chúng. Dưới đây là một số kết quả:
 
-<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/results.png" width=425 height=190>
+<img src="https://github.com/linanthon/KHDL_DA/blob/master/Image_for_readme/result.png" width=300 height=120>
 
 Các mô hình còn dự đoán ra lương âm cho một số tuyển thủ, nếu ra lương âm, thay bằng min lương của tập train.
 
